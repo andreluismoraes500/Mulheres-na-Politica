@@ -235,8 +235,11 @@ export default function MulheresNaPolitica() {
         <div className="max-w-6xl mx-auto px-6 md:px-10 py-8 flex flex-col md:flex-row items-center justify-center gap-4">
           <div className="text-sm text-slate-600">
             © {new Date().getFullYear()} Mulheres na Política — Inspirando
-            participação.
+            participação.{" "}
           </div>
+        </div>
+        <div className="max-w-6xl mx-auto px-6 md:px-10 flex flex-col md:flex-row items-center justify-center gap-4">
+          <strong>Trabalho Acadêmico - André Luis de Moraes</strong>
         </div>
       </footer>
     </div>
